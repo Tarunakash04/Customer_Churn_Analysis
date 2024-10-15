@@ -1,0 +1,11 @@
+Feature,Importance
+DayMins,0.35
+MonthlyCharge,0.25
+CustServCalls,0.15
+OverageFee,0.1
+AccountWeeks,0.05
+ContractRenewal,0.05
+DataPlan,0.03
+DataUsage,0.02
+RoamMins,0.0
+DayCalls,0.0

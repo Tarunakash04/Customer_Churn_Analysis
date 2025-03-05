@@ -1,16 +1,16 @@
-# 📊 Telecom Customer Churn Analysis  
+#Telecom Customer Churn Analysis  
 
-## 📌 Overview  
+##Overview  
 Customer churn is a major challenge in the telecom industry, impacting revenue and customer retention. This project utilizes **PySpark** to analyze customer data, identify key churn factors, and build predictive models to improve retention strategies.  
 
-## 🏗️ Tech Stack  
+##Tech Stack  
 - **Programming Language**: Python  
 - **Big Data Framework**: Apache Spark (PySpark)  
 - **Machine Learning**: Spark MLlib  
 - **Visualization**: Matplotlib, Seaborn  
 - **Data Processing**: Spark DataFrames  
 
-## 📊 Dataset Overview  
+##Dataset Overview  
 The dataset contains telecom customer details, service usage, and churn status.  
 
 - 📌 **CustomerID** - Unique customer identifier  
